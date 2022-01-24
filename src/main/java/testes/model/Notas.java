@@ -6,5 +6,5 @@ public class Notas {
 	notas[] =	 [3, 2,1];
 
 			
-
+   
 }

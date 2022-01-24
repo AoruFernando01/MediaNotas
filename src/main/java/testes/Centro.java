@@ -10,7 +10,7 @@ public class Centro {
 		Aluno aluno = new Aluno("Lucas", "4B");
 		aluno.itens = new Itens(2, 6, 2, 7);
 		System.out.println(aluno.toString());
-
+       
 		
 		Double media = aluno.itens.CalculaMedia(aluno.itens.getNumero1(), aluno.itens.getNumero2(),
 				aluno.itens.getNumero3(), aluno.itens.getNumero4());
